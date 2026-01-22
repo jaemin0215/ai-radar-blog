@@ -1,0 +1,6 @@
+title: "AI Radar"
+description: "Automatic paper & model release summaries"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
